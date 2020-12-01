@@ -1,1 +1,1 @@
-# web.yupiik.com
+# testing for sub-domain takeover
